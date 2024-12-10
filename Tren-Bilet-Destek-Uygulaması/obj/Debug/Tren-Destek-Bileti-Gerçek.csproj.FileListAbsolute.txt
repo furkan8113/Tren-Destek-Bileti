@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren-Destek-Bileti-Gerçek.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren_Destek_Bileti_Gerçek.AdminPanel.resources
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren_Destek_Bileti_Gercek.Form1.resources
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren_Destek_Bileti_Gerçek.Properties.Resources.resources
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren-Destek-Bileti-Gerçek.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren-Destek-Bileti-Gerçek.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\bin\Debug\Tren-Destek-Bileti-Gerçek.exe.config
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\bin\Debug\Tren-Destek-Bileti-Gerçek.exe
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\bin\Debug\Tren-Destek-Bileti-Gerçek.pdb
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren-Destek-Bileti-Gerçek.exe
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren-Destek-Bileti-Gerçek.pdb
+C:\Users\furka\source\repos\Tren-Destek-Bileti-Gerçek\Tren-Destek-Bileti-Gerçek\obj\Debug\Tren_Destek_Bileti_Gerçek.KullanıcıPanel.resources
